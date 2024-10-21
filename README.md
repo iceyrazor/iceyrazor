@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iceyrazor
 - im intrested in. gayyyymes, blender 3d art, coding, archery, anime, and im a furry.
 - im learning how to blender, a never ending thing. lua on computercraft minecraft.
-- 📫 contact me through my discord on my site http://iceyfox.xyz/ or email me iceyfoxservers@gmail.com (email subject to change)
+- 📫 contact me through my discord on my site https://iceyfox.xyz/ or email me iceyfoxservers@gmail.com (email subject to change)
 also if you want to use gpg messenging my pub key is here http://iceyfox.xyz/iceyrazor.gpg.pub and more info on how is on the site listed
 
 <!---
